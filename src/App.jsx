@@ -226,15 +226,15 @@ function Hero() {
             Desh AI · Custom AI agents
           </p>
           <h1 className="font-display font-extrabold leading-[0.95] tracking-tight">
-            <span className="hero-line-1 block text-4xl sm:text-5xl md:text-6xl">AI agents that speak</span>
+            <span className="hero-line-1 block text-4xl sm:text-5xl md:text-6xl">We build AI agents that speak</span>
             <span className="hero-line-2 block font-serif italic font-medium text-primary text-6xl sm:text-7xl md:text-8xl mt-2" style={{ lineHeight: '0.92' }}>
-              your customer's language.
+              every Indian language.
             </span>
           </h1>
 
           <p className="hero-meta mx-auto max-w-xl text-white/75 text-base sm:text-lg mt-8 leading-relaxed">
             Custom chatbots and assistants for web and WhatsApp — fluent in English and India's regional
-            languages, and built on your own data.
+            languages, and grounded in your own data.
           </p>
 
           <div className="hero-cta mt-10 flex flex-col sm:flex-row gap-4 justify-center">
